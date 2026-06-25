@@ -1,4 +1,5 @@
-'''questions = [
+```python
+questions = [
     ["What is the capital of France?", "paris"],
     ["What is 2 + 2?", "4"],
     ["What color is the sky?", "blue"]
@@ -17,4 +18,5 @@ for question in questions:
     else:
         print("Incorrect!")
 
-print(f"\nFinal score: {score}/{len(questions)}")'''
+print(f"\nFinal score: {score}/{len(questions)}")
+```
